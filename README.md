@@ -1,2 +1,2 @@
 # career-coding-website
-my professional software development website for employers
+my professional web development website for employers
