@@ -42,6 +42,14 @@
 					close knit so soft skills are very important; he has had to let 2 previous employees go due to their 					unprofessionalism. Mr. Lauer is willing to hire someone with less experience if that person is reliable, 					trainable and he feels like they would be a good addition to the team. He would like to hire someone
 					as soon as possible. Salary range is between $50k to $58k.
 					</li>
+					<li><strong>Goals:</strong> In order to get a better sense of potential candiates personalities,
+					Mr. Lauer is skipping phone screening and would like to meet interested parties in person. In addition to
+					review candidate websites, he will also have each person complete a very basic Excel spreadsheet
+					to verify they have this skillset. He is taking this approach having learned from mistakes made during
+					the hiring process made with the former two employees that he had to let go. Although he is very busy,
+					Mr. Lauer is allowing ample time in his schedule to meet with candidates and obtain enough information
+					to make informed decision.</li>
+					<li><strong>User Story:</strong> As a user, I need to take my time with candidates, review all 					qualifications and get a good sense of their softskills in order to make an informed hiring decision.</li>
 				</ul>
 		</ul>
 	</body>
