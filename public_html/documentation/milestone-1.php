@@ -23,7 +23,8 @@
 			<li><strong>Demographic Information:</strong></li>
 				<ul>
 					<li><strong>Age:</strong> 56</li>
-					<li><strong>Job/Role:</strong> Manager - Space and Asset Management</li>
+					<li><strong>Job/Role:</strong> Manager - Space and Asset Management. Manages three different departments
+					within facilites at Sandia National Laboratories. The management team would like to hire a full-time, 					Front-End Web Developer to build and maintain a website that showcases the departments accomplishments and 					provides information on new and ongoing projects.</li>
 					<li><strong>Technology Utilized:</strong> iPhone 8 and Dell Inspiron 17 7000 with docking station.</li>
 				</ul>
 		</ul>
