@@ -26,6 +26,11 @@
 					<li><strong>Job/Role:</strong> Manager - Space and Asset Management. Manages three different departments
 					within facilites at Sandia National Laboratories. The management team would like to hire a full-time, 					Front-End Web Developer to build and maintain a website that showcases the departments accomplishments and 					provides information on new and ongoing projects.</li>
 					<li><strong>Technology Utilized:</strong> iPhone 8 and Dell Inspiron 17 7000 with docking station.</li>
+					<li><strong>Attitudes and Behaviors:</strong> Mr. Lauer has a very busy work schedule with meetings
+					throughout the day. When it comes to computers and software programs, his technical knowledge is limited.
+					Although he relies on his employees to help him navigate programs he has never used, once he is shown,
+					he catches on pretty quickly and usually only needs to be shown once or twice. Mr. Lauer doesn't use social 					media so when looking to hire, he prefers electronic resumes and a link to a portfolio website so he can 					review qualifications.</li>
+					<li><strong>Frustrations and Needs:</strong> Mr. Lauer and his team are looking for a candidate who is 					not limited to web development but has a varied work history. Although </li>
 				</ul>
 		</ul>
 	</body>
